@@ -1,0 +1,169 @@
+[09-Nov-2022 08:21:27 UTC] PHP Parse error:  syntax error, unexpected '$' in /home/maliniid/presensi.maliniart.id/cms/controller/kelascontroller.php on line 24
+[09-Nov-2022 08:22:11 UTC] PHP Parse error:  syntax error, unexpected '$jurusan_id' (T_VARIABLE) in /home/maliniid/presensi.maliniart.id/cms/controller/kelascontroller.php on line 24
+[09-Nov-2022 08:22:12 UTC] PHP Parse error:  syntax error, unexpected '$jurusan_id' (T_VARIABLE) in /home/maliniid/presensi.maliniart.id/cms/controller/kelascontroller.php on line 24
+[09-Nov-2022 09:29:37 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/maliniid/presensi.maliniart.id/cms/controller/ruangcontroller.php on line 13
+[09-Nov-2022 09:29:40 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/maliniid/presensi.maliniart.id/cms/controller/ruangcontroller.php on line 13
+[09-Nov-2022 09:29:53 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/maliniid/presensi.maliniart.id/cms/controller/ruangcontroller.php on line 13
+[09-Nov-2022 09:30:09 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/maliniid/presensi.maliniart.id/cms/controller/ruangcontroller.php on line 13
+[09-Nov-2022 09:32:11 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/maliniid/presensi.maliniart.id/cms/controller/ruangcontroller.php on line 13
+[13-Nov-2022 22:28:37 Asia/Jakarta] PHP Warning:  Use of undefined constant rows - assumed 'rows' (this will throw an Error in a future version of PHP) in /home/maliniid/presensi.maliniart.id/cms/controller/jurusancontroller.php on line 13
+[13-Nov-2022 22:30:05 Asia/Jakarta] PHP Warning:  Use of undefined constant rows - assumed 'rows' (this will throw an Error in a future version of PHP) in /home/maliniid/presensi.maliniart.id/cms/controller/jurusancontroller.php on line 14
+[13-Nov-2022 22:30:16 Asia/Jakarta] PHP Warning:  Use of undefined constant rows - assumed 'rows' (this will throw an Error in a future version of PHP) in /home/maliniid/presensi.maliniart.id/cms/controller/jurusancontroller.php on line 14
+[13-Nov-2022 22:30:31 Asia/Jakarta] PHP Warning:  Use of undefined constant rows - assumed 'rows' (this will throw an Error in a future version of PHP) in /home/maliniid/presensi.maliniart.id/cms/controller/jurusancontroller.php on line 14
+[15-Nov-2022 09:19:46 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in /home/maliniid/presensi.maliniart.id/cms/controller/jadwalcontroller.php on line 67
+[15-Nov-2022 09:20:30 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in /home/maliniid/presensi.maliniart.id/cms/controller/jadwalcontroller.php on line 67
+[15-Nov-2022 09:21:41 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in /home/maliniid/presensi.maliniart.id/cms/controller/jadwalcontroller.php on line 67
+[15-Nov-2022 09:22:19 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in /home/maliniid/presensi.maliniart.id/cms/controller/jadwalcontroller.php on line 67
+[15-Nov-2022 09:26:19 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in /home/maliniid/presensi.maliniart.id/cms/controller/jadwalcontroller.php on line 67
+[15-Nov-2022 17:28:39 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maliniid/presensi.maliniart.id/cms/controller/login.php:5) in /home/maliniid/presensi.maliniart.id/cms/controller/login.php on line 27
+[15-Nov-2022 17:28:49 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maliniid/presensi.maliniart.id/cms/controller/login.php:5) in /home/maliniid/presensi.maliniart.id/cms/controller/login.php on line 27
+[15-Nov-2022 17:28:50 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maliniid/presensi.maliniart.id/cms/controller/login.php:5) in /home/maliniid/presensi.maliniart.id/cms/controller/login.php on line 27
+[15-Nov-2022 17:29:04 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maliniid/presensi.maliniart.id/cms/controller/login.php:5) in /home/maliniid/presensi.maliniart.id/cms/controller/login.php on line 27
+[15-Nov-2022 17:29:11 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maliniid/presensi.maliniart.id/cms/controller/login.php:5) in /home/maliniid/presensi.maliniart.id/cms/controller/login.php on line 27
+[15-Nov-2022 17:29:12 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maliniid/presensi.maliniart.id/cms/controller/login.php:5) in /home/maliniid/presensi.maliniart.id/cms/controller/login.php on line 27
+[15-Nov-2022 17:29:12 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maliniid/presensi.maliniart.id/cms/controller/login.php:5) in /home/maliniid/presensi.maliniart.id/cms/controller/login.php on line 27
+[15-Nov-2022 17:29:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maliniid/presensi.maliniart.id/cms/controller/login.php:5) in /home/maliniid/presensi.maliniart.id/cms/controller/login.php on line 27
+[15-Nov-2022 17:29:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maliniid/presensi.maliniart.id/cms/controller/login.php:5) in /home/maliniid/presensi.maliniart.id/cms/controller/login.php on line 27
+[15-Nov-2022 17:29:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maliniid/presensi.maliniart.id/cms/controller/login.php:5) in /home/maliniid/presensi.maliniart.id/cms/controller/login.php on line 27
+[15-Nov-2022 17:29:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maliniid/presensi.maliniart.id/cms/controller/login.php:5) in /home/maliniid/presensi.maliniart.id/cms/controller/login.php on line 27
+[15-Nov-2022 17:29:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maliniid/presensi.maliniart.id/cms/controller/login.php:5) in /home/maliniid/presensi.maliniart.id/cms/controller/login.php on line 27
+[15-Nov-2022 17:29:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maliniid/presensi.maliniart.id/cms/controller/login.php:5) in /home/maliniid/presensi.maliniart.id/cms/controller/login.php on line 27
+[15-Nov-2022 17:29:29 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/maliniid/presensi.maliniart.id/cms/controller/login.php:4) in /home/maliniid/presensi.maliniart.id/cms/controller/login.php on line 45
+[20-Nov-2022 14:30:38 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/maliniid/presensi.maliniart.id/cms/controller/presensisiswacontroller.php on line 29
+[20-Nov-2022 14:31:07 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/maliniid/presensi.maliniart.id/cms/controller/presensisiswacontroller.php on line 29
+[20-Nov-2022 14:31:08 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/maliniid/presensi.maliniart.id/cms/controller/presensisiswacontroller.php on line 29
+[20-Nov-2022 14:31:09 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/maliniid/presensi.maliniart.id/cms/controller/presensisiswacontroller.php on line 29
+[03-Dec-2022 12:37:12 UTC] PHP Parse error:  syntax error, unexpected ']', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/maliniid/presensi.maliniart.id/cms/controller/jadwalcontroller.php on line 140
+[03-Dec-2022 12:37:19 UTC] PHP Parse error:  syntax error, unexpected ']', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/maliniid/presensi.maliniart.id/cms/controller/jadwalcontroller.php on line 140
+[03-Dec-2022 12:37:30 UTC] PHP Parse error:  syntax error, unexpected ']', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/maliniid/presensi.maliniart.id/cms/controller/jadwalcontroller.php on line 140
+[03-Dec-2022 12:37:40 UTC] PHP Parse error:  syntax error, unexpected ']', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/maliniid/presensi.maliniart.id/cms/controller/jadwalcontroller.php on line 140
+[03-Dec-2022 12:37:51 UTC] PHP Parse error:  syntax error, unexpected ']', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/maliniid/presensi.maliniart.id/cms/controller/jadwalcontroller.php on line 140
+[14-Dec-2022 22:10:33 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/maliniid/presensi.maliniart.id/cms/controller/jadwalcontroller.php on line 96
+[16-Dec-2022 22:47:29 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/maliniid/presensi.maliniart.id/cms/controller/jadwalcontroller.php on line 96
+[26-Jan-2023 09:01:06 Asia/Jakarta] PHP Warning:  Undefined array key "admin_username" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:01:07 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:01:07 Asia/Jakarta] PHP Warning:  Undefined array key "admin_password" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:01:07 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:02:49 Asia/Jakarta] PHP Warning:  Undefined array key "jadwal_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[26-Jan-2023 09:02:49 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[26-Jan-2023 09:02:49 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 16
+[26-Jan-2023 09:02:49 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id2" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 17
+[26-Jan-2023 09:02:49 Asia/Jakarta] PHP Warning:  Undefined variable $sql in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 55
+[26-Jan-2023 09:04:06 Asia/Jakarta] PHP Warning:  Undefined array key "jadwal_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[26-Jan-2023 09:04:06 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[26-Jan-2023 09:04:06 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 16
+[26-Jan-2023 09:04:06 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id2" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 17
+[26-Jan-2023 09:04:06 Asia/Jakarta] PHP Warning:  Undefined variable $sql in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 55
+[26-Jan-2023 09:06:08 Asia/Jakarta] PHP Warning:  Undefined array key "jadwal_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[26-Jan-2023 09:06:08 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[26-Jan-2023 09:06:08 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 16
+[26-Jan-2023 09:06:08 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id2" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 17
+[26-Jan-2023 09:06:41 Asia/Jakarta] PHP Warning:  Undefined array key "admin_username" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:06:41 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:06:41 Asia/Jakarta] PHP Warning:  Undefined array key "admin_password" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:06:41 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:08:10 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 97
+[26-Jan-2023 09:08:10 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 98
+[26-Jan-2023 09:08:53 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 97
+[26-Jan-2023 09:08:53 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 98
+[26-Jan-2023 09:09:24 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 97
+[26-Jan-2023 09:09:30 Asia/Jakarta] PHP Warning:  Undefined array key "admin_username" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:09:30 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:09:30 Asia/Jakarta] PHP Warning:  Undefined array key "admin_password" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:09:30 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:09:42 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 97
+[26-Jan-2023 09:09:45 Asia/Jakarta] PHP Warning:  Undefined array key "admin_username" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:09:45 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:09:45 Asia/Jakarta] PHP Warning:  Undefined array key "admin_password" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:09:45 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:22:58 Asia/Jakarta] PHP Warning:  Undefined array key "admin_username" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:22:58 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:22:58 Asia/Jakarta] PHP Warning:  Undefined array key "admin_password" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:22:58 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:29:53 Asia/Jakarta] PHP Warning:  Undefined array key "admin_username" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:29:53 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:29:53 Asia/Jakarta] PHP Warning:  Undefined array key "admin_password" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:29:53 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:30:01 Asia/Jakarta] PHP Warning:  Undefined array key "jadwal_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[26-Jan-2023 09:30:01 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[26-Jan-2023 09:30:01 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 16
+[26-Jan-2023 09:30:01 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id2" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 17
+[26-Jan-2023 09:33:08 Asia/Jakarta] PHP Warning:  Undefined array key "jadwal_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[26-Jan-2023 09:33:08 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[26-Jan-2023 09:33:08 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 16
+[26-Jan-2023 09:33:08 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id2" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 17
+[26-Jan-2023 09:34:52 Asia/Jakarta] PHP Warning:  Undefined array key "jadwal_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[26-Jan-2023 09:34:52 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[26-Jan-2023 09:34:52 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 16
+[26-Jan-2023 09:34:52 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id2" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 17
+[26-Jan-2023 09:36:27 Asia/Jakarta] PHP Warning:  Undefined array key "admin_username" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:36:27 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:36:27 Asia/Jakarta] PHP Warning:  Undefined array key "admin_password" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:36:27 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:42:24 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1234567890' for key 'PRIMARY' in /home/ma956624/latihan.maliniart.com/cms/config/function.php:29
+Stack trace:
+#0 /home/ma956624/latihan.maliniart.com/cms/config/function.php(29): mysqli_query(Object(mysqli), 'INSERT INTO tb_...')
+#1 /home/ma956624/latihan.maliniart.com/cms/controller/gurucontroller.php(18): insert('INSERT INTO tb_...')
+#2 {main}
+  thrown in /home/ma956624/latihan.maliniart.com/cms/config/function.php on line 29
+[26-Jan-2023 09:46:14 Asia/Jakarta] PHP Warning:  Undefined array key "siswa_password" in /home/ma956624/latihan.maliniart.com/cms/controller/siswacontroller.php on line 70
+[26-Jan-2023 09:46:14 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/siswacontroller.php on line 70
+[26-Jan-2023 09:47:01 Asia/Jakarta] PHP Warning:  Undefined array key "admin_username" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:47:01 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:47:01 Asia/Jakarta] PHP Warning:  Undefined array key "admin_password" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:47:01 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:48:30 Asia/Jakarta] PHP Warning:  Undefined array key "admin_username" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:48:30 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:48:30 Asia/Jakarta] PHP Warning:  Undefined array key "admin_password" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:48:30 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:49:37 Asia/Jakarta] PHP Warning:  Undefined array key "admin_username" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:49:37 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 09:49:37 Asia/Jakarta] PHP Warning:  Undefined array key "admin_password" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 09:49:37 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 10:00:40 Asia/Jakarta] PHP Warning:  Undefined array key "jadwal_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[26-Jan-2023 10:00:40 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[26-Jan-2023 10:00:40 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 16
+[26-Jan-2023 10:00:40 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id2" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 17
+[26-Jan-2023 10:05:28 Asia/Jakarta] PHP Warning:  Undefined array key "admin_username" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 10:05:28 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[26-Jan-2023 10:05:28 Asia/Jakarta] PHP Warning:  Undefined array key "admin_password" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[26-Jan-2023 10:05:28 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[27-Jan-2023 17:19:37 Asia/Jakarta] PHP Warning:  Undefined array key "admin_username" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[27-Jan-2023 17:19:37 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[27-Jan-2023 17:19:37 Asia/Jakarta] PHP Warning:  Undefined array key "admin_password" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[27-Jan-2023 17:19:37 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[29-Jan-2023 19:08:34 Asia/Jakarta] PHP Warning:  Undefined array key "admin_username" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[29-Jan-2023 19:08:34 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[29-Jan-2023 19:08:34 Asia/Jakarta] PHP Warning:  Undefined array key "admin_password" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[29-Jan-2023 19:08:34 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[29-Jan-2023 23:00:47 Asia/Jakarta] PHP Warning:  Undefined array key "siswa_password" in /home/ma956624/latihan.maliniart.com/cms/controller/siswacontroller.php on line 70
+[29-Jan-2023 23:00:47 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/siswacontroller.php on line 70
+[29-Jan-2023 23:00:53 Asia/Jakarta] PHP Warning:  Undefined array key "siswa_password" in /home/ma956624/latihan.maliniart.com/cms/controller/siswacontroller.php on line 70
+[29-Jan-2023 23:00:53 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/siswacontroller.php on line 70
+[29-Jan-2023 23:03:20 Asia/Jakarta] PHP Warning:  Undefined array key "jadwal_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[29-Jan-2023 23:03:20 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[29-Jan-2023 23:03:20 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 16
+[29-Jan-2023 23:03:20 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id2" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 17
+[29-Jan-2023 23:18:48 Asia/Jakarta] PHP Warning:  Undefined array key "jadwal_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[29-Jan-2023 23:18:48 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[29-Jan-2023 23:18:48 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 16
+[29-Jan-2023 23:18:48 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id2" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 17
+[29-Jan-2023 23:33:20 Asia/Jakarta] PHP Warning:  Undefined array key "jadwal_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[29-Jan-2023 23:33:20 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[29-Jan-2023 23:33:20 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 16
+[29-Jan-2023 23:33:20 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id2" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 17
+[29-Jan-2023 23:37:56 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 97
+[30-Jan-2023 14:34:34 Asia/Jakarta] PHP Warning:  Undefined array key "jadwal_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[30-Jan-2023 14:34:34 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 7
+[30-Jan-2023 14:34:34 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 16
+[30-Jan-2023 14:34:34 Asia/Jakarta] PHP Warning:  Undefined array key "guru_id2" in /home/ma956624/latihan.maliniart.com/cms/controller/jadwalcontroller.php on line 17
+[30-Jan-2023 14:48:40 Asia/Jakarta] PHP Warning:  Undefined array key "admin_username" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[30-Jan-2023 14:48:40 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 5
+[30-Jan-2023 14:48:40 Asia/Jakarta] PHP Warning:  Undefined array key "admin_password" in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6
+[30-Jan-2023 14:48:40 Asia/Jakarta] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/ma956624/latihan.maliniart.com/cms/controller/login.php on line 6

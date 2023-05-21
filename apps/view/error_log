@@ -1,0 +1,4 @@
+[26-Nov-2022 03:04:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function select() in /home/maliniid/presensi.maliniart.id/apps/view/presensi.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/maliniid/presensi.maliniart.id/apps/view/presensi.php on line 6
